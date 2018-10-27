@@ -18,3 +18,5 @@ You will see all the information in the console
 | 14 lines with cheating.s | lab 7 | floating point addition with cheating      |
 | 20 lines clean code.s    | lab 7 | floating point addition clean code         |
 | 20 lines with options.s  | lab 7 | floating point addition with options       |
+
+(MIPS Assembly lab tasks, semester 2, software engineering bachelor degree)

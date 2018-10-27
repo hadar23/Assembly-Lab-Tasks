@@ -1,5 +1,5 @@
 # Assembly-Lab-Tasks
-Lab tasks in MIPS Assembly, second semester
+Lab tasks in MIPS Assembly
 
 How to use:
 1. Download [MARS MIPS simulator](http://courses.missouristate.edu/KenVollmar/mars/download.htm) and open it
